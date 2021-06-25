@@ -1,0 +1,24 @@
+people 0 has infected :
+12 at 660 446 [Day: 6 ; Time: 23:38]
+ people 1 has infected :
+10 at 301 334 [Day: 14 ; Time: 02:30]
+ people 10 has infected :
+14 at 333 376 [Day: 21 ; Time: 05:12]
+ people 12 has infected :
+9 at 628 327 [Day: 9 ; Time: 09:21]
+ people 0 has infected :
+17 at 426 507 [Day: 6 ; Time: 11:38]
+ people 1 has infected :
+18 at 664 539 [Day: 8 ; Time: 04:31]
+ people 3 has infected :
+16 at 15 319 [Day: 23 ; Time: 10:05]
+ people 17 has infected :
+6 at 539 388 [Day: 8 ; Time: 18:57]
+ 3 at 628 312 [Day: 10 ; Time: 11:51]
+ people 0 has infected :
+4 at 570 483 [Day: 6 ; Time: 16:25]
+ people 1 has infected :
+8 at 490 558 [Day: 6 ; Time: 09:17]
+ people 4 has infected :
+14 at 18 99 [Day: 18 ; Time: 14:41]
+ 
